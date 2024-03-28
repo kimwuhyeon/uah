@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uah/static/css/main.96874dd3.css",
-    "main.js": "/uah/static/js/main.b2617f1b.js",
+    "main.js": "/uah/static/js/main.dd0626b0.js",
     "index.html": "/uah/index.html",
     "main.96874dd3.css.map": "/uah/static/css/main.96874dd3.css.map",
-    "main.b2617f1b.js.map": "/uah/static/js/main.b2617f1b.js.map"
+    "main.dd0626b0.js.map": "/uah/static/js/main.dd0626b0.js.map"
   },
   "entrypoints": [
     "static/css/main.96874dd3.css",
-    "static/js/main.b2617f1b.js"
+    "static/js/main.dd0626b0.js"
   ]
 }
